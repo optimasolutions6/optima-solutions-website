@@ -27,3 +27,4 @@ Sube todos los archivos y carpetas a la raíz del repositorio. Vercel detectará
 
 ## Transparencia
 No se incluyen testimonios, ventas, clientes o métricas inventadas. Los textos legales deben revisarse conforme a las jurisdicciones aplicables.
+Última actualización técnica: agosto de 2026.
